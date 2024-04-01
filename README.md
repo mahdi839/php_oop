@@ -1,5 +1,5 @@
 
-Sure, here's a short description for the README file in your GitHub repository:
+
 
 PHP Object-Oriented Programming (OOP) Practice
 Welcome to this repository dedicated to practicing Object-Oriented Programming (OOP) in PHP! This repository focuses on exploring essential OOP concepts and features in PHP, providing hands-on exercises and examples to deepen your understanding.
